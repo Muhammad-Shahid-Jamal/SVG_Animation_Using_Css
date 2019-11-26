@@ -8,4 +8,4 @@ how you can animate svg using only css using keyframes animation.
 </div>
 
 ## Demo
-<video src="./images/demo.mp4" width="100%" loop autoplay>
+[![Watch the video](./images/men_svg.svg)](./images/demo.mp4)
